@@ -13,6 +13,7 @@ public class Number3 {
            sum+=arr[i];
         }
         System.out.println("Сумма элементов массива(for) = " + sum);
+        System.out.println("Среднее арифимитечкое = " + sum/size);
         sum = 0;
 
         int i = 0;
