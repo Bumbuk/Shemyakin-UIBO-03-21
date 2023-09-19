@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Number3 {
     public static void main(String[] args) {//номер 3
         Scanner sc = new Scanner(System.in);

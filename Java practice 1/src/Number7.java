@@ -9,6 +9,6 @@ public class Number7 {
         for(int i = 1;i<=number;i++){
            fact*=i;
         }
-        System.out.println("Факторил числа "+ number + " = " + fact);
+        System.out.println("Факториал числа "+ number + " = " + fact);
     }
 }
